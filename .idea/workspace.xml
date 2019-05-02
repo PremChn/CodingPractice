@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a3ff2c1-f032-4a09-8083-4ad0be6360e3" name="Default Changelist" comment="" />
+    <list default="true" id="0a3ff2c1-f032-4a09-8083-4ad0be6360e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,6 +97,34 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-260697956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="122" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -134,7 +167,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/InterviewQuestions/NumberCombinations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -142,6 +175,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -196,6 +238,9 @@
       <replace>clonePermutation</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -241,11 +286,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/temp1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sorting/QuickSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/InterviewQuestions/sibilings.java" />
         <option value="$PROJECT_DIR$/src/main/java/InterviewQuestions/NumberCombinations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" />
       </list>
     </option>
   </component>
@@ -268,57 +313,41 @@
     <option name="width" value="1711" />
     <option name="height" value="1021" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NumberMath" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testpersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testpersonal" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -328,13 +357,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556659658879" />
-    <property name="last_opened_file_path" value="C:/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556830801739" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -350,7 +380,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberCombinations">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="CodingPractice" />
@@ -366,7 +396,7 @@
     </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
-      <module name="CodingPractice" />
+      <module name="test-personal" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sorting.*" />
@@ -439,11 +469,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.NumberCombinations" />
         <item itemvalue="Application.sibilings" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -487,11 +517,12 @@
       <workItem from="1556569075837" duration="13366000" />
       <workItem from="1556643695852" duration="6978000" />
       <workItem from="1556752737904" duration="1306000" />
+      <workItem from="1556829902534" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339219000" />
+    <option name="totallyTimeSpent" value="340029000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -504,8 +535,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31769723" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32089552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -980,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Cracking/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1074,6 +1099,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

@@ -10,30 +10,28 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void main(String args[]){
-        int[] unsortedArray = { 20, 12, 45};
+        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
 
-        System.out.println("Unsorted array: " + Arrays.toString(unsortedArray));
+        System.out.println("Unsorted array: " + Arrays.toString(intArray));
 
-        insertionSort(unsortedArray);
+        insertionSort(intArray);
 
-        System.out.println("Sorted Array: " + Arrays.toString(unsortedArray));
+        System.out.println("Sorted Array: " + Arrays.toString(intArray));
     }
 
-    public static void insertionSort(int unsortedArray[]){
-        for(int i = 1; i < unsortedArray.length; i++){
-            int current = unsortedArray[i];
-            int j = i;
-
+    public static void insertionSort(int intArray[]){
+        for(int firstUnsortedIndex = 1; firstUnsortedIndex < intArray.length; firstUnsortedIndex++){
+            int newElement = intArray[firstUnsortedIndex];
+            int i;
             //create right place by moving elements
-            while(j > 0 && unsortedArray[j - 1] > current){
+            for(i = firstUnsortedIndex; i > 0 && intArray[i - 1] > newElement; i--){
 
                 //move
-                unsortedArray[j] = unsortedArray[j - 1];
-                j--;
+                intArray[i] = intArray[i - 1];
             }
 
             //found the right place, insert now
-            unsortedArray[j] = current;
+            intArray[i] = newElement;
 
         }
 
