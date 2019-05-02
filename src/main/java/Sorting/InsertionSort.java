@@ -12,11 +12,11 @@ public class InsertionSort {
     public static void main(String args[]){
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
 
-        System.out.println("Unsorted array: " + Arrays.toString(intArray));
+        System.out.println("Unsorted array : " + Arrays.toString(intArray));
 
         insertionSort(intArray);
 
-        System.out.println("Sorted Array: " + Arrays.toString(intArray));
+        System.out.println("Sorted Array : " + Arrays.toString(intArray));
     }
 
     public static void insertionSort(int intArray[]){
