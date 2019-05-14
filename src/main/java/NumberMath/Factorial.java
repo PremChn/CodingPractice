@@ -11,8 +11,17 @@ public class Factorial {
     }
 
     //Using recursion
+
+    //how recursion works ('!' denotes factorial)
+    //1! = 1 * 0! = 1
+    //2! = 2 * 1 = 2 * 1!
+    //3! = 3 * 2 * 1 = 3 * 2! (two factorial is nothing but 2 *1)
+    //4! = 4 * 3 * 2 * 1 = 4 * 3!
+
+    //n! = n * (n-1)!
+
     public static int recursionFactorial(int n){
-        if( n == 1){
+        if( n == 0){
             return 1;
         }else{
             return n * recursionFactorial(n -1);
