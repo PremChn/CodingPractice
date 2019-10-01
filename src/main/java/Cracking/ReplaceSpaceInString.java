@@ -12,7 +12,7 @@ public class ReplaceSpaceInString {
         String str = "Prem Anand Panneer Selvam";
         String strArray[] = str.split(" ");
         for(int i = 0; i < strArray.length; i++){
-            if(i == strArray.length - 1){
+            if(i == strArray.length - 1){ //this check is to avoid adding "%20" to the last element in the array.
                 strArray[i] = strArray[i];
             }else{
                 strArray[i] = strArray[i] + "%20";

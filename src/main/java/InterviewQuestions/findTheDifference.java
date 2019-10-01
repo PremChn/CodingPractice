@@ -17,10 +17,12 @@ e
 Explanation:
 'e' is the letter that was added.*/
 
+import java.util.Arrays;
+
 public class findTheDifference {
     public static void main(String args[]){
         //System.out.println(findTheDifference("abc","ae"));
-        System.out.println(findTheDifference1("abc","abce"));
+        System.out.println(findTheDifference1("ab","abe"));
     }
     public static char findTheDifference(String s, String t){
         String both = s + t;
@@ -31,14 +33,28 @@ public class findTheDifference {
         return ret;
     }
 
+    /*Let's take 5^6 as example:
+    (decimal)    (binary)
+     5     =  101
+     6     =  110
+    ------------------ xor
+     3     =  011
+
+     This the truth table for bitwise (JLS 15.22.1) and logical (JLS 15.22.2) xor:
+    ^ | 0 1      ^ | F T
+    --+-----     --+-----
+    0 | 0 1      F | F T
+    1 | 1 0      T | T F*/
+
     public static char findTheDifference1(String s, String t) {
         char[] comb = (s+t).toCharArray();
         int output = 0;
-        for(char c:comb){
-            output = output^c;
+        for(char c : comb){
+            output = output^c; // '^' symbol is 'XOR' operator
             System.out.println(output);
         }
-        return Character.toChars(output)[0];
+        char[] temp = Character.toChars(output);
+        return temp[0];
+        //return Character.toChars(output)[0];
     }
-
 }

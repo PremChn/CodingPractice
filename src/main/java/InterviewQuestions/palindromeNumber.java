@@ -2,7 +2,7 @@ package InterviewQuestions;
 
 public class palindromeNumber {
     public static void main(String args[]){
-        int x = 100;
+        int x = 101;
         System.out.println(isPalindrome(x));
     }
     public static boolean isPalindrome(int x){
@@ -22,8 +22,5 @@ public class palindromeNumber {
         }else{
             return false;
         }
-
     }
-
-
 }

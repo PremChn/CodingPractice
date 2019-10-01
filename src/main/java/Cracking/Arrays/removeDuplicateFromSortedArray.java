@@ -37,7 +37,7 @@ for (int i = 0; i < len; i++) {
 
 public class removeDuplicateFromSortedArray {
     public static void main(String args[]){
-        int[] arr = new int[] {1,4,4};
+        int[] arr = new int[] {1,1,2,4,4};
         //System.out.println(removeDuplicates(arr));
         System.out.println(removeDuplicatesPrintNewArray(arr));
     }

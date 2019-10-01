@@ -42,7 +42,7 @@ package Cracking.Arrays;
 public class removeGivenElementFromArray {
     public static void main(String args[]){
         int elementTobeRemoved = 2;
-        int[] nums = new int[] {0,2,2,2,3,0};
+        int[] nums = new int[] {0,2,2,3};
         System.out.println(removeElementFromArray(nums, elementTobeRemoved));
     }
 
@@ -50,7 +50,9 @@ public class removeGivenElementFromArray {
         int pos = 0;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != x) {
-                nums[pos++] = nums[i];
+                int t = pos++;
+                nums[t] = nums[i];
+                System.out.println(nums[t]);
             }
         }
         return pos;

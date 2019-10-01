@@ -1,15 +1,13 @@
 package Strings;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 
 public class CountDuplicateCharactersInString {
     public static void main(String args[]){
-        Scanner in = new Scanner(System.in);
+       /* Scanner in = new Scanner(System.in);
         String sourceString = in.nextLine();
-        in.close();
+        in.close();*/
+        String sourceString = "anand";
         CountDuplicate(sourceString);
     }
 
@@ -19,6 +17,7 @@ public class CountDuplicateCharactersInString {
         char[] stringToChar = s.toCharArray();
         Arrays.sort(stringToChar);
         HashMap<Character, Integer> charMap = new HashMap<Character, Integer>();
+        //Map<Integer,Integer> charMap = new HashMap<Integer, Integer>();
         for(Character ch : stringToChar){
             if(charMap.containsKey(ch)){
                 charMap.put(ch, charMap.get(ch) + 1);

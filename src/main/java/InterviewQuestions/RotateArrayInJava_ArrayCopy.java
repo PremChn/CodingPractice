@@ -31,7 +31,7 @@ public class RotateArrayInJava_ArrayCopy {
             j++;
         }
 
-        System.arraycopy(result, 0, nums,0, nums.length);
+       // System.arraycopy(result, 0, nums,0, nums.length);
         System.out.println(Arrays.toString(result));
     }
 

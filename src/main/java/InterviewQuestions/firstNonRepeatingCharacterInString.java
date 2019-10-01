@@ -14,7 +14,7 @@ public class firstNonRepeatingCharacterInString {
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
         for(Character ch : charArray){
             if(map.containsKey(ch)){
-                
+
             }
         }
 

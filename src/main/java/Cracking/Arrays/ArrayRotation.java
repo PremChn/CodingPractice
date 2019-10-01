@@ -6,12 +6,12 @@ package Cracking.Arrays;
 public class ArrayRotation {
     public static void main(String args[]){
         int[] nums = {1,2,3,18,19};
-        int k = 3;
+        int k = 7;
         //Solution 1 - Intermediate Array
-        //rotate(nums, k);
+        rotate(nums, k);
 
         //Solution 2 - Bubble Rotate
-       bubbleRotate(nums, k);
+       //bubbleRotate(nums, k);
     }
 
     //Solution 1 - Intermediate Array
