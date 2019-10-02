@@ -2,52 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a3ff2c1-f032-4a09-8083-4ad0be6360e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/DuplicateElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/firstNonRepeatingCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Utility/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Utility/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/appModules/SignIn_Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/ReturnHighestDuplicateInIntegerArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/removeDuplicateFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/removeDuplicateFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/removeGivenElementFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/Arrays/removeGivenElementFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/ReplaceSpaceInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/ReplaceSpaceInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/StringCompressionUsingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/StringCompressionUsingString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/StringCompressionUsingStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/StringCompressionUsingStringBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cracking/StringHasUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cracking/StringHasUniqueCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HackerRankInterviewPreparationKit/BirthdayCakeCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HackerRankInterviewPreparationKit/BirthdayCakeCandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/RotateArrayInJava_ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/RotateArrayInJava_ArrayCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/countTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/countTriplet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/easyDial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/easyDial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/findTheDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/findTheDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/palindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/palindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sorting/QuickSortDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorting/QuickSortDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sorting/QuickSortUdemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorting/QuickSortUdemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Strings/CountDuplicateCharactersInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/CountDuplicateCharactersInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Strings/CountDuplicateWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/CountDuplicateWordsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/temp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/Arrays/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/Arrays/ArrayRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/Arrays/removeDuplicateFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/Arrays/removeDuplicateFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/Arrays/removeGivenElementFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/Arrays/removeGivenElementFromArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/StringCompressionUsingString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/StringCompressionUsingString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/StringCompressionUsingStringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/StringCompressionUsingStringBuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cracking/StringHasUniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cracking/StringHasUniqueCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterviewQuestions/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/RallyHealth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/RallyHealth1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/RotateArrayInJava_ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterviewQuestions/RotateArrayInJava_ArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterviewQuestions/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/findTheDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterviewQuestions/findTheDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterviewQuestions/palindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterviewQuestions/palindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sorting/QuickSortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sorting/QuickSortDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Strings/CountDuplicateCharactersInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Strings/CountDuplicateCharactersInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/temp1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Utility/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Utility/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/appModules/SignIn_Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/appModules/SignIn_Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/automationFramework/PageObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/automationFramework/PageObjectModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/pageObjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/pageObjects/LogIn_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/pageObjects/LogIn_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Utility/ExcelUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Utility/ExcelUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/appModules/SignIn_Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/appModules/SignIn_Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/automationFramework/PageObjectModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/automationFramework/PageObjectModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/pageObjects/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/pageObjects/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/pageObjects/LogIn_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/pageObjects/LogIn_Page.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -279,6 +246,7 @@
       <workItem from="1568750390739" duration="860000" />
       <workItem from="1568783898566" duration="4789000" />
       <workItem from="1569340073962" duration="29169000" />
+      <workItem from="1569948378698" duration="11027000" />
     </task>
     <servers />
   </component>
